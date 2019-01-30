@@ -1,0 +1,334 @@
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll.config
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.pdb
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe.config
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.rsp
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe.config
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.rsp
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.AppContext.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Console.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Compression.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Claims.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.ValueTuple.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe.config
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.rsp
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.InitialCreate.resources
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaOpisSkrocony.resources
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaTest.resources
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.usuniciePolaTest.resources
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.GenerateResource.cache
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CoreCompileInputs.cache
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CopyComplete
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.pdb
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csprojAssemblyReference.cache
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Ado.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.AspNet.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Core.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.EF6.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Mvc5.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\LorenIpsumTextGenerator.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Razor.resources.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\ola_g\source\repos\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll.config
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.pdb
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe.config
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.rsp
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe.config
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.rsp
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.AppContext.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Console.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Compression.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Claims.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.ValueTuple.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe.config
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.rsp
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.InitialCreate.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaOpisSkrocony.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaTest.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.usuniciePolaTest.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.GenerateResource.cache
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CoreCompileInputs.cache
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CopyComplete
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.pdb
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Web.Administration.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.WebActivator.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Antlr3.Runtime.pdb
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Newtonsoft.Json.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Optimization.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodanieAspNetIdentity.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.Zamowienia.resources
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csprojAssemblyReference.cache
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Antlr3.Runtime.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Ado.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.AspNet.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Core.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.EF6.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Mvc5.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\LorenIpsumTextGenerator.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Newtonsoft.Json.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Owin.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Optimization.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\WebActivatorEx.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\WebGrease.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Razor.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\ola_g\Desktop\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll.config
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\SklepKsiegarniaInt.pdb
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.exe.config
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csc.rsp
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.exe.config
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\csi.rsp
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.AppContext.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Console.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Compression.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Claims.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.ValueTuple.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.exe.config
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\vbc.rsp
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Antlr3.Runtime.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Ado.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.AspNet.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Core.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.EF6.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Glimpse.Mvc5.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\LorenIpsumTextGenerator.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Newtonsoft.Json.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Owin.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Optimization.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\WebActivatorEx.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\WebGrease.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Web.Administration.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Antlr3.Runtime.pdb
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\EntityFramework.SqlServer.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\MvcSiteMapProvider.WebActivator.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Newtonsoft.Json.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Optimization.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Razor.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Webpages.Razor.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Helpers.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\System.Web.Mvc.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Razor.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csprojAssemblyReference.cache
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.InitialCreate.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaOpisSkrocony.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodaniePolaTest.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.usuniciePolaTest.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.dodanieAspNetIdentity.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.Migrations.Zamowienia.resources
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.GenerateResource.cache
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CoreCompileInputs.cache
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.csproj.CopyComplete
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.dll
+C:\Users\ola_g\Desktop\dokumenty\Studia\semestr 5\SZRBD\SklepKsiegarniaInt\SklepKsiegarniaInt\obj\Debug\SklepKsiegarniaInt.pdb

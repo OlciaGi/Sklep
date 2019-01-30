@@ -1,0 +1,71 @@
+﻿@model SklepKsiegarniaInt.ViewModels.HomeViewModel
+@using SklepKsiegarniaInt.Infrastructure
+
+@{
+    ViewBag.Title = "Sklep Internetowy";
+}
+
+
+
+<nav class="kategorieHorizontal">
+    <ul>
+        @foreach (var kategoria in Model.Kategorie)
+        {
+            <li>
+                <a href="@Url.Action("Lista","Ksiazki", new { nazwaKategori = kategoria.NazwaKategorii.ToLower() })"
+                   style="background-image: url(@Url.IkonyKategoriiSciezka(kategoria.NazwaPlikuIkony)); ">
+                    @kategoria.NazwaKategorii
+                </a>
+            </li>
+        }
+
+    </ul>
+    <a href="@Url.Content("~/")">
+        <img id="baner" src="../Content/Images/baner.png" />
+    </a>
+</nav>
+<section>
+    <ul class="KsiazkiTrzyKolumny duzaListaKsiazki">
+        @foreach (var bestseller in Model.Bestsellery)
+        {
+            <li>
+                <article>
+                    <a class="dodajDoKoszykaLink" href="@Url.Action("DodajDoKoszyka","Koszyk", new { id = bestseller.KsiazkaId})">
+                        <img src="../Content/Images/koszyk.png" />
+                    </a>
+                    <a class="ksiazkaSzczegolyLink" href="@Url.Action("Szczegoly", "Ksiazki", new { id = bestseller.KsiazkaId})">
+                        <div class="bestsellerFlag"></div>
+                        <img class="ksiazka" src="@Url.ObrazkiSciezka(bestseller.NazwaPlikuObrazka)" />
+                        <h1>
+                            @bestseller.TytulKsiazki - @bestseller.AutorKsiazki
+                        </h1>
+                    </a>
+                </article>
+            </li>
+        }
+    </ul>
+</section>
+
+<section>
+    <ul class="KsiazkiTrzyKolumny duzaListaKsiazki">
+        @foreach (var nowosc in Model.Nowosci)
+        {
+            <li>
+                <article>
+                    <a class="dodajDoKoszykaLink" href="@Url.Action("DodajDoKoszyka","Koszyk", new { id = nowosc.KsiazkaId})">
+                        <img src="../Content/Images/koszyk.png" />
+                    </a>
+                    <a class="ksiazkaSzczegolyLink" href="@Url.Action("Szczegoly", "Ksiazki", new { id = nowosc.KsiazkaId})">
+                        <div class="newFlag"></div>
+                        <img class="ksiazka" src="@Url.ObrazkiSciezka(nowosc.NazwaPlikuObrazka)" />
+                        <h1>
+                            @nowosc.TytulKsiazki - @nowosc.AutorKsiazki
+                        </h1>
+                    </a>
+                </article>
+            </li>
+        }
+
+    </ul>
+</section>
+

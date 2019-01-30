@@ -1,0 +1,86 @@
+﻿@model SklepKsiegarniaInt.ViewModels.EditKsiazkiViewModel
+@{
+    ViewBag.Title = "DodajKsiazke";
+    Layout = "~/Views/Shared/_ManageLayout.cshtml";
+}
+
+<hr />
+<h2 class=" = " manageHeader">Edycja Produktu</h2>
+<div>
+    @if (Model.Potwierdzenie.HasValue && Model.Potwierdzenie.Value)
+    {
+        <div style="text-align: center; margin: 50px;">
+            Pomyślnie wprowadzono zmiany!
+        </div>
+    }
+
+    @using (@Html.BeginForm("DodajKsiazke", "Manage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="error-summary-centered">
+            @Html.ValidationSummary()
+        </div>
+        @Html.HiddenFor(o => o.Ksiazka.KsiazkaId)
+        @Html.HiddenFor(o => o.Ksiazka.DataDodania)
+        @Html.HiddenFor(o => o.Ksiazka.NazwaPlikuObrazka)
+
+        <div style="text-align: center;">
+            <table id="albumedit-address-table">
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.AutorKsiazki, "Autor:")</td>
+                    <td>@Html.TextBoxFor(o => o.Ksiazka.AutorKsiazki)</td>
+                    <td>@Html.ValidationMessageFor(o => o.Ksiazka.AutorKsiazki)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.TytulKsiazki, "Kurs:")</td>
+                    <td>@Html.TextBoxFor(o => o.Ksiazka.TytulKsiazki)</td>
+                    <td>@Html.ValidationMessageFor(o => o.Ksiazka.TytulKsiazki)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.OpisKsiazki, "Opis:")</td>
+                    <td>@Html.TextBoxFor(o => o.Ksiazka.OpisKsiazki)</td>
+                    <td>@Html.ValidationMessageFor(o => o.Ksiazka.OpisKsiazki)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.OpisSkrocony, "Opis skrócony:")</td>
+                    <td>@Html.TextBoxFor(o => o.Ksiazka.OpisSkrocony)</td>
+                    <td>@Html.ValidationMessageFor(o => o.Ksiazka.OpisSkrocony)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Kategorie, "Kategoria:")</td>
+                    <td>@Html.DropDownListFor(m => m.Ksiazka.KategoriaId, new SelectList(Model.Kategorie, "KategoriaId", "NazwaKategori", Model.Kategorie.First().KategoriaId))</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.CenaKsiazki, "Cena:")</td>
+                    <td>@Html.TextBoxFor(o => o.Ksiazka.CenaKsiazki)</td>
+                    <td>@Html.ValidationMessageFor(o => o.Ksiazka.CenaKsiazki)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(o => o.Ksiazka.Bestseller, "Bestseller:")</td>
+                    <td>@Html.CheckBoxFor(o => o.Ksiazka.Bestseller)</td>
+                    <td></td>
+                </tr>
+                @if (ViewBag.EditMode == null || !ViewBag.EditMode)
+                {
+                    <tr>
+                        <td colspan="3">
+                            <div class="upload">
+                                <input type="file" name="file" />
+                            </div>
+                        </td>
+                    </tr>
+                }
+
+                <tr>
+                    <td style="text-align: right;">
+                        <input type="submit" value="Zapisz" class="submitLink" style="height: 40px; margin-right: 0px; margin-top: 30px; font-weight: bold;" />
+                    </td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+    }
+</div>
+

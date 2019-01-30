@@ -1,0 +1,47 @@
+﻿@model SklepKsiegarniaInt.Models.Ksiazka
+@using SklepKsiegarniaInt.Infrastructure
+@{
+    ViewBag.Title = "Szczegoly";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="ListaKategoriZawartosc">
+    @Html.Action("KategorieMenu")
+    <div id="KategorieListPrawaSekcja">
+        <div id="Breadcrumb">
+            <img src="../Content/Images/dommaly.png" />
+            <a href="link">
+                @Html.MvcSiteMap().SiteMapPath()
+            </a>
+        </div>
+        <section id="SekcjaKsiazka">
+            <div id="KsiazkaLewa">
+                <img src="@Url.ObrazkiSciezka(Model.NazwaPlikuObrazka)" />
+            </div>
+            <div id="KsiazkaPrawa">
+                <div id="KsiazkaNazwa">
+                    <h1>
+                        @Model.TytulKsiazki
+                    </h1>
+                    <h2>
+                        @Model.AutorKsiazki
+                    </h2>
+                </div>
+                <div id="KsiazkaCena">
+                    <div>
+                        @String.Format("{0:0.##}", Model.CenaKsiazki)<span>PLN</span>
+                    </div>
+                    <a href="@Url.Action("DodajDoKoszyka", "Koszyk", new { id = Model.KsiazkaId })"></a>
+                </div>
+                <div id="KsiazkaOpis">
+                    @Model.OpisKsiazki
+                </div>
+                <div id="KsiazkaInfo">
+                    @Model.OpisSkrocony
+                </div>
+
+            </div>
+        </section>
+    </div>
+</div>
+

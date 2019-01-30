@@ -1,0 +1,27 @@
+﻿@model IEnumerable<SklepKsiegarniaInt.Models.Ksiazka>
+@using SklepKsiegarniaInt.Infrastructure
+
+
+<ul class="KsiazkiTrzyKolumny KsiazkaCena">
+    @foreach (var ksiazka in Model)
+    {
+        <li>
+            <article>
+                <a class="dodajDoKoszykaLink" href="@Url.Action("DodajDoKoszyka","Koszyk", new { id = ksiazka.KsiazkaId } )">
+                    <img src="@Url.Content("~/Content/Images/koszyk.png")" />
+                </a>
+                @if (ksiazka.Bestseller)
+                {
+                    <div class="bestsellerFlag"></div>
+                }
+                <a class="ksiazkaSzczegolyLink" href="@Url.Action("Szczegoly", "Ksiazki", new { id = ksiazka.KsiazkaId})">
+                    <img class="ksiazka" src="@Url.ObrazkiSciezka(ksiazka.NazwaPlikuObrazka)" />
+                    <h1>
+                        @ksiazka.AutorKsiazki - @ksiazka.TytulKsiazki
+                    </h1>
+
+                </a>
+            </article>
+        </li>
+    }
+</ul>
