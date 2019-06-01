@@ -38,7 +38,7 @@ namespace SklepKsiegarniaInt.Controllers
             return View(ksiazka);
         }
         [ChildActionOnly]
-        [OutputCache(Duration = 60000)]//1dzien beda przechowywane dane w cache
+        [OutputCache(Duration = 60000)]
         public ActionResult KategorieMenu()
         {
             var kategorie = db.Kategorie.ToList();

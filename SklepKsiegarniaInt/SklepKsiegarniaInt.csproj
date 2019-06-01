@@ -185,6 +185,8 @@
     <Content Include="Content\Kategorie\horror.png" />
     <Content Include="Content\Kategorie\klasyka.png" />
     <Content Include="Content\Kategorie\kryminal.png" />
+    <Content Include="Content\Kategorie\naukowe.png" />
+    <Content Include="Content\Kategorie\podreczniki.png" />
     <Content Include="Content\Kategorie\przygodowe.png" />
     <Content Include="Content\Kategorie\romans.png" />
     <Content Include="Content\Ksiazki\angelfall.png" />

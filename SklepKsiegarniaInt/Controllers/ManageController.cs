@@ -181,7 +181,7 @@ namespace SklepKsiegarniaInt.Controllers
 
             return zamowienie.StanZamowienia;
         }
-        [HttpPost]
+     
         [Authorize(Roles = "Admin")]
         public ActionResult DodajKsiazke(int? ksiazkaId, bool? potwierdzenie)
         {

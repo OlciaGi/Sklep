@@ -553,8 +553,8 @@ ul.TrzyKolumnyList {
             z-index: -1;
         }
 
-        ul.TrzyKolumnyList li a:hover img.ksiazka {
-        }
+        /*ul.TrzyKolumnyList li a:hover img.ksiazka {
+        }*/
 
 .manageHeader {
     margin-bottom: 30px;

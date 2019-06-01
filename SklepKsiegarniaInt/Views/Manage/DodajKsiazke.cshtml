@@ -5,7 +5,7 @@
 }
 
 <hr />
-<h2 class=" = " manageHeader">Edycja Produktu</h2>
+<h2 class=" = " manageHeader">Dodawanie książki</h2>
 <div>
     @if (Model.Potwierdzenie.HasValue && Model.Potwierdzenie.Value)
     {
@@ -33,7 +33,7 @@
                     <td>@Html.ValidationMessageFor(o => o.Ksiazka.AutorKsiazki)</td>
                 </tr>
                 <tr>
-                    <td>@Html.LabelFor(o => o.Ksiazka.TytulKsiazki, "Kurs:")</td>
+                    <td>@Html.LabelFor(o => o.Ksiazka.TytulKsiazki, "Tytuł:")</td>
                     <td>@Html.TextBoxFor(o => o.Ksiazka.TytulKsiazki)</td>
                     <td>@Html.ValidationMessageFor(o => o.Ksiazka.TytulKsiazki)</td>
                 </tr>
@@ -49,7 +49,7 @@
                 </tr>
                 <tr>
                     <td>@Html.LabelFor(o => o.Kategorie, "Kategoria:")</td>
-                    <td>@Html.DropDownListFor(m => m.Ksiazka.KategoriaId, new SelectList(Model.Kategorie, "KategoriaId", "NazwaKategori", Model.Kategorie.First().KategoriaId))</td>
+                    <td>@Html.DropDownListFor(m => m.Ksiazka.KategoriaId, new SelectList(Model.Kategorie, "KategoriaId", "NazwaKategorii", Model.Kategorie.First().KategoriaId))</td>
                     <td></td>
                 </tr>
                 <tr>
